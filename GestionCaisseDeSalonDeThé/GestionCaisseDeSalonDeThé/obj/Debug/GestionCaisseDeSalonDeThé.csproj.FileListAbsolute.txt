@@ -1,0 +1,112 @@
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\GestionCaisseDeSalonDeThé.exe.config
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\GestionCaisseDeSalonDeThé.exe
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\GestionCaisseDeSalonDeThé.pdb
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\MetroFramework.dll
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\MetroFramework.Fonts.dll
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csprojAssemblyReference.cache
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.AjouterBoisson.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Form1.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Boisson.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.GestionCommande.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.GestionRecette.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.GestionServeurs.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.ListerBoisson.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.SupprimerBoisson.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.ModifierBoisson.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Properties.Resources.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.RechercherBoisson.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csproj.GenerateResource.cache
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csproj.CoreCompileInputs.cache
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csproj.CopyComplete
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.exe
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.pdb
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.AjouterCommande.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.ListerCommandes.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.ModifierCommandes.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.RechercherCommande.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.SupprimerCommande.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_boisson.ListerBoisson.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.AjouterRecette.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.ListerRecettes.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.ModifierRecette.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.RechercherRecette.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.SupprimerRecette.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.AjouterServeur.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.ListerServeur.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.ModifierServeur.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.RechercherServeur.resources
+D:\3éme_année\S6\DotNet\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.SupprimerServeur.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.AjouterBoisson.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Form1.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Boisson.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_boisson.ListerBoisson.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.AjouterCommande.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.GestionCommande.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.ListerCommandes.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.ModifierCommandes.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.RechercherCommande.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.SupprimerCommande.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.AjouterRecette.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.GestionRecette.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.ListerRecettes.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.ModifierRecette.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.RechercherRecette.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.SupprimerRecette.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.AjouterServeur.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.GestionServeurs.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.SupprimerBoisson.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.ModifierBoisson.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.ListerServeur.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.ModifierServeur.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.RechercherServeur.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.SupprimerServeur.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Properties.Resources.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.RechercherBoisson.resources
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.exe
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.pdb
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\GestionCaisseDeSalonDeThé.exe.config
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\GestionCaisseDeSalonDeThé.exe
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\GestionCaisseDeSalonDeThé.pdb
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\MetroFramework.dll
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pc\Desktop\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csproj.CopyComplete
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\GestionCaisseDeSalonDeThé.exe.config
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\GestionCaisseDeSalonDeThé.exe
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\GestionCaisseDeSalonDeThé.pdb
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\MetroFramework.dll
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\bin\Debug\MetroFramework.Fonts.dll
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csprojAssemblyReference.cache
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.AjouterBoisson.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Form1.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Boisson.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_boisson.ListerBoisson.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.AjouterCommande.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.GestionCommande.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.ListerCommandes.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.ModifierCommandes.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.RechercherCommande.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_commande.SupprimerCommande.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.AjouterRecette.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.GestionRecette.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.ListerRecettes.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.ModifierRecette.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.RechercherRecette.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_Recette.SupprimerRecette.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.AjouterServeur.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.GestionServeurs.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.SupprimerBoisson.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.ModifierBoisson.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.ListerServeur.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.ModifierServeur.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.RechercherServeur.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Gestion_serveur.SupprimerServeur.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.Properties.Resources.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.RechercherBoisson.resources
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csproj.GenerateResource.cache
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csproj.CoreCompileInputs.cache
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.csproj.CopyComplete
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.exe
+D:\Area 51\ESISA\3eme anne\C#\S6\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\GestionCaisseDeSalonDeThé\obj\Debug\GestionCaisseDeSalonDeThé.pdb

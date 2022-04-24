@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FA4D2B9B-55B4-474D-B036-A98597951EB9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GestionCaisseDeSalonDeThé</RootNamespace>
+    <AssemblyName>GestionCaisseDeSalonDeThé</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Gestion boisson\AjouterBoisson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion boisson\AjouterBoisson.Designer.cs">
+      <DependentUpon>AjouterBoisson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classes basiques\Boisson.cs" />
+    <Compile Include="classes basiques\Commande.cs" />
+    <Compile Include="Formes\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formes\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion boisson\ListerBoisson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion boisson\ListerBoisson.Designer.cs">
+      <DependentUpon>ListerBoisson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion commande\AjouterCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion commande\AjouterCommande.Designer.cs">
+      <DependentUpon>AjouterCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion commande\GestionCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion commande\GestionCommande.Designer.cs">
+      <DependentUpon>GestionCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion commande\ListerCommandes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion commande\ListerCommandes.Designer.cs">
+      <DependentUpon>ListerCommandes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion commande\ModifierCommandes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion commande\ModifierCommandes.Designer.cs">
+      <DependentUpon>ModifierCommandes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion commande\RechercherCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion commande\RechercherCommande.Designer.cs">
+      <DependentUpon>RechercherCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion commande\SupprimerCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion commande\SupprimerCommande.Designer.cs">
+      <DependentUpon>SupprimerCommande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Recette\AjouterRecette.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Recette\AjouterRecette.Designer.cs">
+      <DependentUpon>AjouterRecette.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Recette\GestionRecette.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Recette\GestionRecette.Designer.cs">
+      <DependentUpon>GestionRecette.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Recette\ListerRecettes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Recette\ListerRecettes.Designer.cs">
+      <DependentUpon>ListerRecettes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Recette\ModifierRecette.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Recette\ModifierRecette.Designer.cs">
+      <DependentUpon>ModifierRecette.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Recette\RechercherRecette.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Recette\RechercherRecette.Designer.cs">
+      <DependentUpon>RechercherRecette.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion Recette\SupprimerRecette.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion Recette\SupprimerRecette.Designer.cs">
+      <DependentUpon>SupprimerRecette.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion serveur\AjouterServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion serveur\AjouterServeur.Designer.cs">
+      <DependentUpon>AjouterServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion serveur\GestionServeurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion serveur\GestionServeurs.Designer.cs">
+      <DependentUpon>GestionServeurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion boisson\ModifierBoisson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion boisson\ModifierBoisson.Designer.cs">
+      <DependentUpon>ModifierBoisson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion boisson\Gestion Boisson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion boisson\Gestion Boisson.Designer.cs">
+      <DependentUpon>Gestion Boisson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion serveur\ListerServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion serveur\ListerServeur.Designer.cs">
+      <DependentUpon>ListerServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion serveur\ModifierServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion serveur\ModifierServeur.Designer.cs">
+      <DependentUpon>ModifierServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion serveur\RechercherServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion serveur\RechercherServeur.Designer.cs">
+      <DependentUpon>RechercherServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion serveur\SupprimerServeur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion serveur\SupprimerServeur.Designer.cs">
+      <DependentUpon>SupprimerServeur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="classes basiques\Recette.cs" />
+    <Compile Include="classes basiques\Serveur.cs" />
+    <Compile Include="Gestion boisson\SupprimerBoisson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion boisson\SupprimerBoisson.Designer.cs">
+      <DependentUpon>SupprimerBoisson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion boisson\RechercherBoisson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion boisson\RechercherBoisson.Designer.cs">
+      <DependentUpon>RechercherBoisson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="requêttes\Boissons.cs" />
+    <Compile Include="requêttes\Serveurs.cs" />
+    <EmbeddedResource Include="Gestion boisson\AjouterBoisson.resx">
+      <DependentUpon>AjouterBoisson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formes\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion boisson\Gestion Boisson.resx">
+      <DependentUpon>Gestion Boisson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion boisson\ListerBoisson.resx">
+      <DependentUpon>ListerBoisson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion commande\AjouterCommande.resx">
+      <DependentUpon>AjouterCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion commande\GestionCommande.resx">
+      <DependentUpon>GestionCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion commande\ListerCommandes.resx">
+      <DependentUpon>ListerCommandes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion commande\ModifierCommandes.resx">
+      <DependentUpon>ModifierCommandes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion commande\RechercherCommande.resx">
+      <DependentUpon>RechercherCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion commande\SupprimerCommande.resx">
+      <DependentUpon>SupprimerCommande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Recette\AjouterRecette.resx">
+      <DependentUpon>AjouterRecette.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Recette\GestionRecette.resx">
+      <DependentUpon>GestionRecette.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Recette\ListerRecettes.resx">
+      <DependentUpon>ListerRecettes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Recette\ModifierRecette.resx">
+      <DependentUpon>ModifierRecette.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Recette\RechercherRecette.resx">
+      <DependentUpon>RechercherRecette.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion Recette\SupprimerRecette.resx">
+      <DependentUpon>SupprimerRecette.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion serveur\AjouterServeur.resx">
+      <DependentUpon>AjouterServeur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion serveur\GestionServeurs.resx">
+      <DependentUpon>GestionServeurs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion boisson\SupprimerBoisson.resx">
+      <DependentUpon>SupprimerBoisson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion boisson\ModifierBoisson.resx">
+      <DependentUpon>ModifierBoisson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion serveur\ListerServeur.resx">
+      <DependentUpon>ListerServeur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion serveur\ModifierServeur.resx">
+      <DependentUpon>ModifierServeur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion serveur\RechercherServeur.resx">
+      <DependentUpon>RechercherServeur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion serveur\SupprimerServeur.resx">
+      <DependentUpon>SupprimerServeur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Gestion boisson\RechercherBoisson.resx">
+      <DependentUpon>RechercherBoisson.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MetroFramework.txt" />
+    <None Include="Resources\55.jpg" />
+    <None Include="Resources\Ser02.jpeg" />
+    <None Include="Resources\Recette.jpg" />
+    <None Include="Resources\02.jpg" />
+    <None Include="Resources\boissons01.jpeg" />
+    <None Include="Resources\Boissons.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

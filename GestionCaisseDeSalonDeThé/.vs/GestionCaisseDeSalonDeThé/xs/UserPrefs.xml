@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{FA4D2B9B-55B4-474D-B036-A98597951EB9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GestionCaisseDeSalonDeThé/classes basiques/Serveur.cs">
+    <Files>
+      <File FileName="GestionCaisseDeSalonDeThé/Program.cs" Line="1" Column="1" />
+      <File FileName="GestionCaisseDeSalonDeThé/Gestion Recette/AjouterRecette.cs" Line="1" Column="1" />
+      <File FileName="GestionCaisseDeSalonDeThé/Formes/Form1.cs" Line="1" Column="1" />
+      <File FileName="GestionCaisseDeSalonDeThé/classes basiques/Boisson.cs" Line="1" Column="1" />
+      <File FileName="GestionCaisseDeSalonDeThé/classes basiques/Serveur.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GestionCaisseDeSalonDeThé" expanded="True">
+            <Node name="GestionCaisseDeSalonDeThé" expanded="True">
+              <Node name="classes basiques" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GestionCaisseDeSalonDeThé PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
